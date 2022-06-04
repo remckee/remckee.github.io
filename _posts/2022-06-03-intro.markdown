@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Starting Outreachy Linux kernel intership"
+date:   2022-06-03 20:40:29 -0500
+categories: Outreachy
+---
+My name is Rebecca Mckeever. This week I began my internship working on the Extend memblock simulator project for the Linux kernel. Next week I will graduate with a BS in Computer Science from Oregon State University. I am in an online program for people who already have a bachelor's degree, so I actually live in Texas. Before I started the program at OSU, my original plan was to get an MS in Computer Science. But I was worried that it would be too difficult without foundational knowledge. I took a few CS courses at a community college, but my first BS is in Chemical Engineering. I was previously in a graduate program that didn't work out (a doctoral program in Chemical Engineering), and I don't want to have a similar experience as a CS graduate student.
+
+My core values are determination and integrity. When I decide to do a task, I am determined to complete it. When I encounter problems, I try to work through them; I don't give up easily. I value integrity because I always strive to have consistency between my actions and my beliefs and ethical principles.
+
+There are two main reasons I decided to apply to Outreachy.
+
+1. Since I already had a bachelor's degree, my program at OSU has only lasted 1.5 years. I didn't take advantage of the one summer during that time to get an internship. Without internship experience, I would be less likely to be accepted if I applied to full time jobs; I might have to accept a less-than-ideal job, such as at a company that doesn't share my values. Most internship programs require that you have at least one term left after the internship, but Outreachy doesn't.
+
+2. Also, I wanted to contribute to open source projects, but I was having trouble getting started. I would read through the documentation for open source projects but then feel too intimidated to get involved.
