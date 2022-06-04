@@ -4,7 +4,7 @@ title:  "Starting Outreachy Linux kernel intership"
 date:   2022-06-03 20:40:29 -0500
 categories: Outreachy
 ---
-My name is Rebecca Mckeever. This week I began my internship working on the Extend memblock simulator project for the Linux kernel. Next week I will graduate with a BS in Computer Science from Oregon State University. I am in an online program for people who already have a bachelor's degree, so I actually live in Texas. My first degree is a BS in Chemical Engineering. I want to continue my education in an MS Computer Science program. I plan to start applying to programs soon and start a program at the beginning of 2023.
+My name is Rebecca Mckeever. This week I began my Outreachy internship working on the Extend memblock simulator project for the Linux kernel. Next week I will graduate with a BS in Computer Science from Oregon State University. I am in an online program for people who already have a bachelor's degree, so I actually live in Texas. My first degree is a BS in Chemical Engineering. I want to continue my education in an MS Computer Science program. I plan to start applying to programs soon and start a program at the beginning of 2023.
 
 My core values are determination and integrity. When I decide to do a task, I am determined to complete it. When I encounter problems, I try to work through them; I don't give up easily. I value integrity because I always strive to have consistency between my actions and my beliefs and ethical principles.
 
