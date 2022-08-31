@@ -66,7 +66,7 @@ I have some in progress tests that I am planning to finish within the next week:
 - memblock_alloc_node()
 - memblock_set_node()
 
-These are described briefly at the end of this post.
+These will be described briefly in the next post.
 
 While writing this post, I thought of a possible future improvement to the testing suite:
 - addition of information about the tests to the help message

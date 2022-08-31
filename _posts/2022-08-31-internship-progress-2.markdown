@@ -14,7 +14,7 @@ This post describes project progress since the [Internship progress](../../07/24
 
 ## Add and update zeroed memory checks
 
-Since the last post, I updated the following patch:
+Since the [Internship progress](../../07/24/internship-progress.html) post, I updated the following patch:
 
 ### Update tests to check if memblock_alloc zeroed memory
 
