@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Internship progress'
-date:   2022-07-24 19:58:34 -0500
+date:   2022-07-24 18:58:34 -0500
 categories: Outreachy
 tags:
 - C

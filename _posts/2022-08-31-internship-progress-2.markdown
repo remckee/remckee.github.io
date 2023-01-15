@@ -10,7 +10,7 @@ tags:
 - Outreachy
 ---
 
-This post describes project progress since the [Internship progress](../../07/24/internship-progress.html) post in more detail than the [Internship reflection](../../08/30/internship-reflection.html) post.
+This post describes project progress since the [Internship progress](../../07/24/internship-progress.html) post in more detail than the [Internship reflection](../../08/31/internship-reflection.html) post.
 
 ## Add and update zeroed memory checks
 
